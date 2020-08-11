@@ -1,0 +1,14 @@
+{
+  "AliaJsonRpcAddress":"http://poly:20336",
+  "SideJsonRpcAddress":"http://ontology:20336",
+  "SideChainID": 3,
+  "AliaWalletFile": "./wallet1.dat",
+  "SideWalletFile": "./wallet2.dat",
+  "DBPath": "boltdb",
+  "ScanInterval": 1,
+  "RetryInterval": 1,
+  "GasPrice":500,
+  "GasLimit":200000,
+  "SideToAlliForceSyncHeight": 0,
+  "AlliToSideForceSyncHeight": 0
+}
